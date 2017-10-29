@@ -48,7 +48,7 @@ Create `index.html`:
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Hello World!</title>
+    <title>HELLO WORLD!</title>
   </head>
   <body>
     <h1>Hello World!</h1>
